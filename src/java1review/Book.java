@@ -1,6 +1,6 @@
 package java1review;
 
-public class Book {
+public class Book implements Comparable<Book> {
     private String title;
     private String author;
     private int numPages;
@@ -79,5 +79,14 @@ public class Book {
                 ", numPages=" + numPages +
                 ", read=" + read +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Book o) {
+        int result = (this.numPages - o.numPages) * -1;
+        if(result == 0) { // if the books have the same number of pages
+            this.title.compareTo(o.title);
+        }
+        return result;
     }
 }

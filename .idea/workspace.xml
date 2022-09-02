@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a453909-a5c7-4dfa-930e-47d1b356da52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java1review/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java1review/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java1review/Book.java" afterDir="false" />
     </list>
     <list id="8d99a1fe-7902-49b1-808c-3a9dc718c031" name="Changes by ajkle" comment="" />
-    <list id="590d184d-e71f-4fa6-a3cc-ac091eec78c0" name="Changes by gopi5" comment="" />
+    <list id="4e22ff30-6b2e-4d7e-9fb6-9d663ca3229e" name="Changes by gopi5" comment="" />
+    <list id="b45285cc-5a3c-4621-b72b-6dd11bf7a67d" name="Changes by Josep" comment="" />
     <list id="7512ed72-1082-4a2f-a192-06a4141882f5" name="Changes by k0876738" comment="" />
+    <list id="d6da35d7-d4dd-4a0e-b612-7cc99a647ebf" name="Changes by MICHAELHARING" comment="" />
     <list id="5baf4a0b-fcd0-45ef-901f-d8aa2b5fe51f" name="Changes by minet" comment="" />
+    <list id="14041118-b036-44c6-80c8-760e0722ed58" name="Changes by Nick" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -66,7 +70,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661470657865</updated>
-      <workItem from="1661470659670" duration="5410000" />
+      <workItem from="1661470659670" duration="5713000" />
+      <workItem from="1662071653510" duration="6943000" />
     </task>
     <servers />
   </component>
