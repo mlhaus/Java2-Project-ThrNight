@@ -2,18 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a453909-a5c7-4dfa-930e-47d1b356da52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/book.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1301/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1302/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1303/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1305/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1306/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1307/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1308/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1309/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1311/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1313/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1313/StringsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/data/BookDAO_CSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/data/BookDAO_MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/data/MyDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/data/MyDAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/data/PersonDAO_CSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/data/PersonDAO_MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/data/PersonDAO_XML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/input/AddPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/input/GetPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/input/MyDataHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/input/UpdatePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/ui/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/ui/UIUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_project/ui/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Assignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Skittles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/Snickers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/textbook/Gen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/textbook/NumericFns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/textbook/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/textbook/TwoGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java1review/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java1review/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java1review/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java1review/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java1review/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java1review/Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java1review/VersionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/MyAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java1review/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java1review/VersionManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/java1review/VersionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java1review/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java1review/Book.java" afterDir="false" />
     </list>
-    <list id="8d99a1fe-7902-49b1-808c-3a9dc718c031" name="Changes by ajkle" comment="" />
-    <list id="4e22ff30-6b2e-4d7e-9fb6-9d663ca3229e" name="Changes by gopi5" comment="" />
     <list id="b45285cc-5a3c-4621-b72b-6dd11bf7a67d" name="Changes by Josep" comment="" />
-    <list id="7512ed72-1082-4a2f-a192-06a4141882f5" name="Changes by k0876738" comment="" />
+    <list id="4b1be99b-493b-4c4e-99ae-f990937df656" name="Changes by mharing" comment="">
+      <change afterPath="$PROJECT_DIR$/src/final_project/input/DeletePerson.java" afterDir="false" />
+    </list>
     <list id="d6da35d7-d4dd-4a0e-b612-7cc99a647ebf" name="Changes by MICHAELHARING" comment="" />
-    <list id="5baf4a0b-fcd0-45ef-901f-d8aa2b5fe51f" name="Changes by minet" comment="" />
-    <list id="14041118-b036-44c6-80c8-760e0722ed58" name="Changes by Nick" comment="" />
+    <list id="40d25263-38f3-441e-a15d-610f61e23f9c" name="Changes by minet" comment="">
+      <change afterPath="$PROJECT_DIR$/src/en/codegym/task/pro/task13/task1310/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +82,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,22 +95,100 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DrwjkFRxSGCQZysfdg7Ware6u1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/k0519415/Java2-ThrNight-22/Java2/mariadb-java-client-3.1.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="java1review" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Assignment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.Assignment4" />
       <module name="Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Demo" />
+      <module name="Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final_project.Main" />
+      <module name="Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_project.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.textbook.MainThree" />
+      <module name="Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.textbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.textbook.MainTwo" />
+      <module name="Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generics.textbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,6 +196,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Assignment4" />
+        <item itemvalue="Application.MainThree" />
+        <item itemvalue="Application.MainTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -71,7 +212,26 @@
       <option name="presentableId" value="Default" />
       <updated>1661470657865</updated>
       <workItem from="1661470659670" duration="5713000" />
-      <workItem from="1662071653510" duration="6943000" />
+      <workItem from="1662071653510" duration="10967000" />
+      <workItem from="1662084037808" duration="2195000" />
+      <workItem from="1662677468996" duration="10520000" />
+      <workItem from="1662747722991" duration="27000" />
+      <workItem from="1662770741793" duration="692000" />
+      <workItem from="1663281720417" duration="16000" />
+      <workItem from="1663282371254" duration="14490000" />
+      <workItem from="1663886738904" duration="8006000" />
+      <workItem from="1664490886885" duration="8229000" />
+      <workItem from="1664499504546" duration="1417000" />
+      <workItem from="1665109087982" duration="149000" />
+      <workItem from="1665109803181" duration="1284000" />
+      <workItem from="1665700794903" duration="61000" />
+      <workItem from="1665703449354" duration="11667000" />
+      <workItem from="1666305974969" duration="7248000" />
+      <workItem from="1666913279404" duration="10884000" />
+      <workItem from="1667515866013" duration="13139000" />
+      <workItem from="1668123942197" duration="14786000" />
+      <workItem from="1668741184257" duration="1450000" />
+      <workItem from="1669937650551" duration="11997000" />
     </task>
     <servers />
   </component>

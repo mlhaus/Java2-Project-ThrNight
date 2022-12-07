@@ -1,31 +1,46 @@
 package java1review;
 
 public class Book implements Comparable<Book> {
+    private int id;
     private String title;
-    private String author;
+    private Person author;
     private int numPages;
     private boolean read;
     public static final String DEFAULT_TITLE = "Undefined";
-    private static int bookCount = 0;
 
     public Book() {
+        id = 0;
         title = DEFAULT_TITLE;
-        author = DEFAULT_TITLE;
+        author = new Person();
         numPages = 1;
         read = false;
-        bookCount++;
     }
-
-    public Book(String title, String author, int numPages, boolean read) {
+    
+    public Book(String title) {
+        id = 0;
         this.title = title;
-        this.author = author;
-        this.numPages = numPages;
-        this.read = read;
-        bookCount++;
+        author = new Person();
+        numPages = 1;
+        read = false;
     }
 
-    public static int getBookCount() {
-        return bookCount;
+    public Book(int id, String title, Person author, int numPages, boolean read) {
+        setId(id);
+        setTitle(title);
+        setAuthor(author);
+        setNumPages(numPages);
+        setRead(read);
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        if(id < 0) {
+            throw new IllegalArgumentException("id cannot be negative");
+        }
+        this.id = id;
     }
 
     public String getTitle() {
@@ -40,12 +55,12 @@ public class Book implements Comparable<Book> {
         }
     }
 
-    public String getAuthor() {
+    public Person getAuthor() {
         return author;
     }
 
-    public void setAuthor(String author) {
-        if (author.equals("")) {
+    public void setAuthor(Person author) {
+        if (author == null) {
             throw new IllegalArgumentException("The author is required.");
         } else {
             this.author = author;
@@ -73,19 +88,14 @@ public class Book implements Comparable<Book> {
 
     @Override
     public String toString() {
-        return "Book{" +
-                "title='" + title + '\'' +
-                ", author='" + author + '\'' +
-                ", numPages=" + numPages +
-                ", read=" + read +
-                '}';
+        return title + " by: " + author;
     }
 
     @Override
     public int compareTo(Book o) {
-        int result = (this.numPages - o.numPages) * -1;
+        int result = this.title.compareTo(o.title);
         if(result == 0) { // if the books have the same number of pages
-            this.title.compareTo(o.title);
+            result = (this.numPages - o.numPages) * -1;
         }
         return result;
     }
